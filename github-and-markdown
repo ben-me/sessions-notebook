@@ -1,0 +1,5 @@
+# Useful Hints and Commands for Github and Markdown
+
+## Github
+Always remember to fetch/pull before you first push to a repository <br>
+Merge via Pull request, not on your local repo
