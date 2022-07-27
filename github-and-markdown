@@ -1,0 +1,11 @@
+# Useful Hints and Commands for Github and Markdown
+
+## Github
+Always remember to fetch/pull before you first push to a repository <br>
+Merge via Pull request, not on your local repo 
+
+## Markdown
+Bold text with ** before and after a word/sentence <br>
+Italic text with __ before and after a word/sentence <br>
+Links with [] that contains the Text and () that contains the link<br>
+Images with ! followed by a [] that contains a link and () with the image url <br>
